@@ -1,0 +1,11 @@
+
+
+nanoGPT Reference from :
+https://www.youtube.com/watch?v=kCc8FmEb1nY
+
+- Tokens : These are the pieces of a single word.
+- The chat gpt result is probabilistic in nature. The network replies the next probable token from its current one.
+- Language Model ? Large Language Model ?
+- Neural Network models a Language Model.
+- GPT : Generative Pre-Trained Transformer
+    - Transformer - is the Neural Network that runs the core part of GPT
